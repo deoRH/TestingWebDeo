@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Berikutnya</name>
+   <tag></tag>
+   <elementGuidId>0dff8ffd-142a-42ce-982b-2bb19713a92f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layers']/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/div[6]/div/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-18t94o4.css-1dbjc4n.r-oelmt8.r-sdzlij.r-1phboty.r-rs99b7.r-ywje51.r-usiww2.r-2yi16.r-1qi8awa.r-1ny4l3l.r-ymttw5.r-o7ynqc.r-6416eg.r-lrvibr.r-13qz1uu > div.css-901oao.r-1awozwy.r-6koalj.r-18u37iz.r-16y2uox.r-37j5jr.r-a023e6.r-b88u0q.r-1777fci.r-rjixqe.r-bcqeeo.r-q4m81j.r-qvutc0 > span.css-901oao.css-16my406.css-1hf3ou5.r-poiln3.r-a023e6.r-rjixqe.r-bcqeeo.r-qvutc0 > span.css-901oao.css-16my406.r-poiln3.r-bcqeeo.r-qvutc0</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>592598da-5624-4bf6-81a5-360e084f7091</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0</value>
+      <webElementGuid>cf154ee5-06da-4b0f-8b73-2801450269ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Berikutnya</value>
+      <webElementGuid>5c830722-2673-47c8-9a4c-4c6435ecff7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layers&quot;)/div[@class=&quot;css-1dbjc4n r-aqfbo4 r-1d2f490 r-12vffkv r-1xcajam r-zchlnj&quot;]/div[@class=&quot;css-1dbjc4n r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-12vffkv&quot;]/div[@class=&quot;css-1dbjc4n r-1p0dtai r-1adg3ll r-1d2f490 r-bnwqim r-zchlnj r-ipm5af&quot;]/div[@class=&quot;r-1oszu61 r-vqxq0j r-1p0dtai r-deolkf r-1adg3ll r-1mlwlqe r-eqz5dr r-1d2f490 r-crgep1 r-ifefl9 r-bcqeeo r-t60dpp r-bnwqim r-zchlnj r-ipm5af r-417010&quot;]/div[@class=&quot;css-1dbjc4n r-1pz39u2 r-16y2uox r-1wbh5a2&quot;]/div[@class=&quot;css-1dbjc4n r-1awozwy r-18u37iz r-1pi2tsx r-1777fci r-1xcajam r-ipm5af r-g6jmlv&quot;]/div[@class=&quot;css-1dbjc4n r-1867qdf r-1wbh5a2 r-kwpbio r-rsyp9y r-1pjcn9w r-1279nm1 r-htvplk r-1udh08x&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-16y2uox r-1wbh5a2&quot;]/div[@class=&quot;css-1dbjc4n r-1pz39u2 r-16y2uox r-1wbh5a2&quot;]/div[@class=&quot;css-1dbjc4n r-14lw9ot r-6koalj r-16y2uox r-1wbh5a2&quot;]/div[@class=&quot;css-1dbjc4n r-16y2uox r-1wbh5a2 r-1jgb5lz r-1ye8kvj r-13qz1uu&quot;]/div[@class=&quot;css-1dbjc4n r-16y2uox r-1wbh5a2 r-1dqxon3&quot;]/div[@class=&quot;css-1dbjc4n&quot;]/div[@class=&quot;css-1dbjc4n r-ywje51 r-nllxps r-jxj0sb r-16wqof r-1dye5f7&quot;]/div[@class=&quot;css-18t94o4 css-1dbjc4n r-oelmt8 r-sdzlij r-1phboty r-rs99b7 r-ywje51 r-usiww2 r-2yi16 r-1qi8awa r-1ny4l3l r-ymttw5 r-o7ynqc r-6416eg r-lrvibr r-13qz1uu&quot;]/div[@class=&quot;css-901oao r-1awozwy r-6koalj r-18u37iz r-16y2uox r-37j5jr r-a023e6 r-b88u0q r-1777fci r-rjixqe r-bcqeeo r-q4m81j r-qvutc0&quot;]/span[@class=&quot;css-901oao css-16my406 css-1hf3ou5 r-poiln3 r-a023e6 r-rjixqe r-bcqeeo r-qvutc0&quot;]/span[@class=&quot;css-901oao css-16my406 r-poiln3 r-bcqeeo r-qvutc0&quot;]</value>
+      <webElementGuid>d35bafbf-472e-408e-b87b-23a897eeee9d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layers']/div/div/div/div/div/div/div[2]/div[2]/div/div/div[2]/div[2]/div/div/div/div[6]/div/span/span</value>
+      <webElementGuid>dba36c1a-df9a-4dc5-b9b7-2fd29bd20cef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nomor telepon, email, atau nama pengguna'])[1]/following::span[2]</value>
+      <webElementGuid>c08526f6-7702-4d3c-bff4-a0ffde0daacf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='atau'])[1]/following::span[3]</value>
+      <webElementGuid>22c8c895-1be0-4a9c-8afc-cd442924c3fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa kata sandi?'])[1]/preceding::span[1]</value>
+      <webElementGuid>a37201f6-1628-4c15-82b3-02a290317113</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Belum punya akun?'])[1]/preceding::span[3]</value>
+      <webElementGuid>fd34d127-b34a-469e-be6e-d18c346a716a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Berikutnya']/parent::*</value>
+      <webElementGuid>f07f61f0-4d4f-4661-826a-c103c916ead6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/span/span</value>
+      <webElementGuid>2ff6a93c-9181-4800-a474-6f0149a28c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Berikutnya' or . = 'Berikutnya')]</value>
+      <webElementGuid>4d1e7cd9-3a8d-463f-aaee-d06822e195bb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
